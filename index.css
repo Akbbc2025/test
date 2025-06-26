@@ -48,3 +48,7 @@ td {
     font-weight: bold;
     text-decoration: underline;
 }
+.lessimp {
+    text-decoration: underline;
+    color: red;
+}
