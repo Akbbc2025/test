@@ -18,9 +18,9 @@ h4 {
 }
 img {
     overflow: scroll;
-  width: 365;
+  width: 365px;
   text-align: justify;
-  border: 1;
+  border: 1px;
 }
 a:link {
     color: #FFD700; /* Color for unvisited links */
