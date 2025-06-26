@@ -19,8 +19,6 @@ h4 {
 img {
     overflow: scroll;
   width: 365px;
-  text-align: justify;
-  border: 1px;
 }
 a:link {
     color: #FFD700; /* Color for unvisited links */
@@ -51,4 +49,7 @@ td {
 .lessimp {
     text-decoration: underline;
     color: red;
+}
+div {
+    border: 1px solid white;
 }
