@@ -35,6 +35,7 @@ a:active {
 table tr td {
     text-align: center;
     border: 1px solid white;
+    padding: 10px;
 }
 td {
     border: 10px solid #141E30;
